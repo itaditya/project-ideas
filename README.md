@@ -20,4 +20,4 @@ An exhaustive list of interesting project ideas
 1. Facebook Birthday Auto Wisher
 1. Facebook Birthday-Wishers Auto Replier
 1. Tweet Shortener (chrome extension to replace long words with shorter ones)
-1. Create a desktop pacer for speedreading
+1. Create a desktop pacer for speedreading GUIDING RESOURCE:(https://www.youtube.com/watch?v=H7h5lVSCRm4)
