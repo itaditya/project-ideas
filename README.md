@@ -5,10 +5,10 @@ An exhaustive list of interesting project ideas
 1. Pop Culture Fansite (Rick & Morty, Death Note or whatever)
 1. Pixel Avatar Generator
 1. Online Code Compiler
-1. Event Manager
+1. Event Manager (user subscribe to some events and you notify them when those events are about to start).
 1. Image Editor Webapp (Cropping and Instagram like Filters)
 1. Online Drawing Board
-1. T-Shirt or Stickers Purchase Site
+1. T-Shirt or Stickers Purchase Site (E-Commerce site with Shopping cart)
 1. Marvel Movie Release Day Counter
 1. International Meetings Scheduler
 1. Cold Email Marketing Tool
