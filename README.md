@@ -20,3 +20,4 @@ An exhaustive list of interesting project ideas
 1. Facebook Birthday-Wishers Auto Replier
 1. Tweet Shortener (chrome extension to replace long words with shorter ones)
 1. Create a desktop pacer for speedreading [(Guide)](https://www.youtube.com/watch?v=H7h5lVSCRm4)
+1. Mars Picture Gallery using [NASA's Mars Rover Photos API](https://api.nasa.gov/)
